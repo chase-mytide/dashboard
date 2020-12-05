@@ -1,0 +1,27 @@
+{
+  "coupling": {
+    "mean": 15.73,
+    "std" : 3.74
+  },
+  "deprotect": {
+    "mean": 7.66,
+    "std": 3.43
+  },
+  "flow_activator": {
+    "mean": 6172.32,
+    "std": 403.57
+  },
+  "flow_amino" : {
+    "mean": 5339.49,
+    "std": 635.05
+  },
+  "out_pressure": {
+    "mean": 51.46,
+    "std": 12.84
+  },
+  "flow_outlet":
+  {
+    "mean": 3310.19,
+    "std": 380.06
+  }
+}
